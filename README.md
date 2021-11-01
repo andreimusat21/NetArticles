@@ -20,6 +20,7 @@ Microservices Design
 | Title | Link |
 | --- | --- |
 | Top 10 Microservices Design patterns and principles| https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html|
+| REST APIs for Microservices? Beware! | https://codeopinion.com/rest-apis-for-microservices-beware/ |
 
 Testing & Debugging
 | Title | Link |
