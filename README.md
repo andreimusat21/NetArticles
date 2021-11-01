@@ -20,10 +20,11 @@ Microservices Design
 | --- | --- |
 | Top 10 Microservices Design patterns and principles| https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html|
 
-Testing
+Testing & Debugging
 | Title | Link |
 | --- | --- |
 | ASP.NET Core Testing Tools and Strategies | https://stackify.com/asp-net-core-testing-tools/ |
+| Top 10 .NET Debugging Tips | https://stackify.com/debugging-tips-net/ |
 
 Multitenancy
 | Title | Link |
