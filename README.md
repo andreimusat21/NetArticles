@@ -7,3 +7,4 @@
 | Using The CQRS Pattern In C# | https://www.c-sharpcorner.com/article/using-the-cqrs-pattern-in-c-sharp/ |
 | Authentication vs. Federation vs. SSO | https://medium.com/@robert.broeckelmann/authentication-vs-federation-vs-sso-9586b06b1380 |
 | .NET Standard Explained: How To Share Code | https://stackify.com/net-standard-explained/ |
+| Processing tasks as they complete | https://devblogs.microsoft.com/pfxteam/processing-tasks-as-they-complete/ |
