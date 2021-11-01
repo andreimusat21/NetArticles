@@ -25,3 +25,8 @@ Testing
 | --- | --- |
 | ASP.NET Core Testing Tools and Strategies | https://stackify.com/asp-net-core-testing-tools/ |
 
+Multitenancy
+| Title | Link |
+| --- | --- |
+| Writing Multitenant ASP.NET Core Applications | https://stackify.com/writing-multitenant-asp-net-core-applications/ |
+
