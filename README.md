@@ -14,6 +14,7 @@ Performance
 | Title | Link |
 | --- | --- |
 | ASP.NET Performance tunning | https://stackify.com/asp-net-performance-tuning/ |
+| .NET Performance Optimization: Everything You Need To Know | https://stackify.com/net-application-optimization/ |
 
 Microservices Design
 | Title | Link |
