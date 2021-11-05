@@ -34,3 +34,8 @@ Multitenancy
 | --- | --- |
 | Writing Multitenant ASP.NET Core Applications | https://stackify.com/writing-multitenant-asp-net-core-applications/ |
 
+Software architecture
+| Title | Link |
+| --- | --- |
+| Why SOLID principles are still the foundation for modern software architecture | https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/ |
+
